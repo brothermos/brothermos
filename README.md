@@ -27,16 +27,18 @@
 
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=brothermos&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=brothermos&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brothermos&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)\
+![](https://github-readme-stats.vercel.app/api?username=brothermos&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=brothermos&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brothermos&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)\
 
 </div> 
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
+  
 ![](https://github-profile-trophy.vercel.app/?username=brothermos&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+
 </div> 
 
 </div>
